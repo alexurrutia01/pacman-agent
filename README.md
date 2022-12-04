@@ -3,7 +3,7 @@
 A template for coding a pacman agent.
 
 ## Setting up the environment
-1. Copy or clone the code from this framework to create your Pacman Agent, e.g., `git clone git@github.com:jsego/pacman-agent.git`
+1. Copy or clone the code from this framework to create your Pacman Agent, e.g., `git clone https://github.com:jsego/pacman-agent.git`
 2. Go into pacman-agent folder, `cd pacman-agent/`
 3. Run `git submodule update --init --remote` to pull the last pacman-contest
 4. Create a virtual environment, e.g., `python3.8 -m venv venv`
